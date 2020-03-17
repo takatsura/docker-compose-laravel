@@ -1,3 +1,5 @@
 .DS_Store
 /server/*
 !/server/.gitkeep
+/docker/db/*
+!/docker/db/.gitkeep
